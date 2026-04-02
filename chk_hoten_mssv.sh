@@ -6,7 +6,7 @@ sid="24520809"
 
 
 
-for ((i = 0; i <= 5; i++))
+for ((i = 0;; i++))
 do
     echo Enter name:
     read inputName
